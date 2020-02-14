@@ -1,0 +1,3 @@
+go install --ldflags '-extldflags "-static"' \
+  github.com/caesium55ds/invoicer-chapter3
+cp "$GOPATH/bin/invoicer-chapter3" bin/invoicer
