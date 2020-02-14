@@ -1,0 +1,1 @@
+docker build -t dsuggs/invoicer_chapter3 -f Dockerfile .
